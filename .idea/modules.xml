@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../local_sites/lcd/app/public/wp-content/themes/Divi/.idea/Divi.iml" filepath="$PROJECT_DIR$/../../local_sites/lcd/app/public/wp-content/themes/Divi/.idea/Divi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trailblaze-divi-modules.iml" filepath="$PROJECT_DIR$/.idea/trailblaze-divi-modules.iml" />
+    </modules>
+  </component>
+</project>
