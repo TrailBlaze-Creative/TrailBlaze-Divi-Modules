@@ -16,7 +16,7 @@
  * Plugin Name:       TrailBlaze Divi Modules
  * Plugin URI:        https://https://github.com/TrailBlaze-Creative/TrailBlaze-Divi-Modules
  * Description:       A TrailBlaze plugin that contains all custom Divi modules and Divi module extentions.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            TrailBlaze Creative
  * Author URI:        https://https://trailblazecreative.com//
  * License:           GPL-2.0+
@@ -35,7 +35,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'TRAILBLAZE_DIVI_MODULES_VERSION', '1.0.1' );
+define( 'TRAILBLAZE_DIVI_MODULES_VERSION', '1.0.2' );
 
 /**
  * The code that runs during plugin activation.
